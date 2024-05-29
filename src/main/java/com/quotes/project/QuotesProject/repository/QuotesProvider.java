@@ -1,4 +1,4 @@
-package com.quotes.project.QuotesProject;
+package com.quotes.project.QuotesProject.repository;
 
 import org.springframework.stereotype.Service;
 
