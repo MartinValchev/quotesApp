@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: QuotesProject
+  datasource:
+    driverClassName: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5432/movieQuotes?currentSchema=quotes
+    username: postgres
+    password: postgres
+server:
+  port: 8083
