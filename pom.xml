@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.quotes.project</groupId>
-	<artifactId>QuotesProject</artifactId>
+	<artifactId>QuotesApp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>QuotesProject</name>
+	<name>QuotesApp</name>
 	<description>Demo project which randomly shows a quote</description>
 	<properties>
 		<java.version>17</java.version>

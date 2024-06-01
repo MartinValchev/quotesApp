@@ -1,6 +1,6 @@
-package com.quotes.project.QuotesProject.repository;
+package com.quotes.project.QuotesApp.repository;
 
-import com.quotes.project.QuotesProject.entity.MovieQuote;
+import com.quotes.project.QuotesApp.entity.MovieQuote;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.UUID;

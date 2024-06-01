@@ -1,13 +1,13 @@
-package com.quotes.project.QuotesProject;
+package com.quotes.project.QuotesApp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class QuotesProjectApplication {
+public class QuotesAppApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(QuotesProjectApplication.class, args);
+		SpringApplication.run(QuotesAppApplication.class, args);
 	}
 
 }

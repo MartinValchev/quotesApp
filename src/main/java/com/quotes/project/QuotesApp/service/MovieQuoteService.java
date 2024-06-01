@@ -1,7 +1,7 @@
-package com.quotes.project.QuotesProject.service;
+package com.quotes.project.QuotesApp.service;
 
-import com.quotes.project.QuotesProject.entity.MovieQuote;
-import com.quotes.project.QuotesProject.repository.MovieQuotesRepository;
+import com.quotes.project.QuotesApp.entity.MovieQuote;
+import com.quotes.project.QuotesApp.repository.MovieQuotesRepository;
 import org.apache.logging.log4j.util.Strings;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

@@ -1,4 +1,4 @@
-package com.quotes.project.QuotesProject.entity;
+package com.quotes.project.QuotesApp.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

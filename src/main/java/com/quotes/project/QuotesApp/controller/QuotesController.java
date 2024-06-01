@@ -1,8 +1,8 @@
-package com.quotes.project.QuotesProject.controller;
+package com.quotes.project.QuotesApp.controller;
 
-import com.quotes.project.QuotesProject.entity.MovieQuote;
-import com.quotes.project.QuotesProject.repository.QuotesProvider;
-import com.quotes.project.QuotesProject.service.MovieQuoteService;
+import com.quotes.project.QuotesApp.entity.MovieQuote;
+import com.quotes.project.QuotesApp.repository.QuotesProvider;
+import com.quotes.project.QuotesApp.service.MovieQuoteService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

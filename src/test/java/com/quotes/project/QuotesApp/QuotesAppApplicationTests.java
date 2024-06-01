@@ -1,10 +1,10 @@
-package com.quotes.project.QuotesProject;
+package com.quotes.project.QuotesApp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class QuotesProjectApplicationTests {
+class QuotesAppApplicationTests {
 
 	@Test
 	void contextLoads() {
